@@ -1,1 +1,1 @@
-Git is a distributed version control system that tracks changes in files and helps developers collaborate.
+GitHub hosts repositories online and supports collaboration through branches and pull requests.
