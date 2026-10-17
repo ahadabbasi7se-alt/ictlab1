@@ -1,1 +1,2 @@
 GitHub hosts repositories online and supports collaboration through branches and pull requests.
+GitHub hosts repositories online and supports collaboration through branches and pull requests.
